@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\woo\StudioProjects\ProjectOxford-Apps-MimickerAlarm\Mimicker\app\build\intermediates\incremental-runtime-classes\arm\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\woo\StudioProjects\ProjectOxford-Apps-MimickerAlarm\Mimicker\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10000\instant-run_1398836a81c24cf04d7bfb134137a4a35506d098\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\woo\StudioProjects\ProjectOxford-Apps-MimickerAlarm\Mimicker\app\build\intermediates\incremental-classes\arm\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="532d03f8fac30f43ae3f310f16fc093915c417d1">
+        <dex dex="C:\Users\woo\StudioProjects\ProjectOxford-Apps-MimickerAlarm\Mimicker\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10000\instant-run-bootstrap_640ac9484754e172e937f1f3f00f77e915c99788\classes.dex" />
+    </item>
+
+</items>
