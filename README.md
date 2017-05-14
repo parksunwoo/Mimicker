@@ -4,4 +4,4 @@ so I used MimickerAlarm opensource and make the wheatherForecast Mimic
 My first project using open source, It's a little shabby, but it will get better and better
 
 - Android Studio
-- OkHttpClient, jsoup, TTS
+- OkHttpClient, Jsoup, TextToSpeech
